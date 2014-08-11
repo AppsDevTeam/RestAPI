@@ -1,0 +1,20 @@
+{
+    "name": "adt/rest-api",
+    "description": "API for simply RESTful communication",
+    "require": {
+        "nette/nette": "2.2.0"
+    },
+
+    "authors": [
+        {
+            "name": "studnaa",
+            "email": "vojtech.studenka@gmail.com"
+        }
+    ],
+
+
+    "autoload": {
+        "classmap": ["src/"]
+    }
+
+}
