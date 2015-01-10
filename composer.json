@@ -2,7 +2,7 @@
     "name": "adt/rest-api",
     "description": "API for simply RESTful communication",
     "require": {
-        "nette/nette": "2.2.0"
+        "nette/nette": "~2.2"
     },
 
     "authors": [
